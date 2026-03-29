@@ -1,11 +1,6 @@
 # knapsack
-
-knapsack - 0/1 knapsack, unbounded knapsack, and fractional knapsack.
-
+Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 ## Usage
-
 ```bash
 python3 knapsack.py --test
 ```
-
-Zero dependencies. Python 3.8+.
